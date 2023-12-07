@@ -84,3 +84,6 @@
 - Data Privacy (ensure ethical data collection and comply with data privacy regulations)
 - Bias and Fairness (address potential biases in data collection and model development)
 - Transparency and Explainability (explain the rationale behind predictions and avoid creating “black boxes”)
+
+## References
+- [Chaudhry, H.N.; Javed, Y.; Kulsoom, F.; Mehmood, Z.; Khan, Z.I.; Shoaib, U.; Janjua, S.H. Sentiment Analysis of before and after Elections: Twitter Data of U.S. Election 2020. Electronics 2021, 10, 2082. https://doi.org/10.3390/electronics10172082](https://www.mdpi.com/2079-9292/10/17/2082)
