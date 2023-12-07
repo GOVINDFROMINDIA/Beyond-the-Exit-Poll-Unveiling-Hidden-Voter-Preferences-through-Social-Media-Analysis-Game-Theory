@@ -22,25 +22,7 @@
 
 - Analyze the connections and interactions between users to understand the flow of information and influence (Centrality Measures and Community Detection Algorithms).
 
-## 2. Exit Polls
-
-### Survey Design:
-
-- Develop a questionnaire that captures the socio-demographic characteristics, political views, and voting intentions of respondents.
-
-### Sampling:
-
-- Select a representative sample of voters leaving polling stations.
-
-### Data Collection:
-
-- Conduct interviews with the selected respondents.
-
-### Data Analysis:
-
-- Analyze the collected data to identify relationships between variables and predict voting patterns.
-
-## 3. Game Theory
+## 2. Game Theory
 
 ### Formalization:
 
