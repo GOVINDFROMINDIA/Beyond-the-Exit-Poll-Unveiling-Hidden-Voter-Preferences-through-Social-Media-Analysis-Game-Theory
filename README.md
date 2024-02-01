@@ -69,3 +69,5 @@
 
 ## References
 - [Chaudhry, H.N.; Javed, Y.; Kulsoom, F.; Mehmood, Z.; Khan, Z.I.; Shoaib, U.; Janjua, S.H. Sentiment Analysis of before and after Elections: Twitter Data of U.S. Election 2020. Electronics 2021, 10, 2082. https://doi.org/10.3390/electronics10172082](https://www.mdpi.com/2079-9292/10/17/2082)
+
+https://drive.google.com/drive/folders/1XAboU0LcxWQLtUfKTpfC8mHfBkDfmRv8
